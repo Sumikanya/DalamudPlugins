@@ -1,3 +1,5 @@
+抄送了一份到github
+原地址：https://www.gitclone.com/gogs/Yarukon/dalamud-plugins
 Yarukon的个人Dalamud插件仓库
 
 # 使用教程
